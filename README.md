@@ -39,7 +39,7 @@ This project presents a simple GUI-based system in MATLAB that can scan and deco
 
 ### Outputs:
 * Intermediate steps!
-[alt text](image.png)
+* (image.png)
 
 * Final output images 
 ![alt text](image-1.png)
